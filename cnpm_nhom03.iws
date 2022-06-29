@@ -6,9 +6,7 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0842614f-1980-4198-8369-7905de696759" name="Default Changelist" comment="add out folder">
-      <change beforePath="$PROJECT_DIR$/src/controller/HomePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/controller/HomePage.java" afterDir="false" />
-    </list>
+    <list default="true" id="0842614f-1980-4198-8369-7905de696759" name="Default Changelist" comment="add out folder" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -205,6 +203,7 @@
       <workItem from="1596914501081" duration="29987000" />
       <workItem from="1597042818837" duration="35607000" />
       <workItem from="1656479538545" duration="213000" />
+      <workItem from="1656480589362" duration="15000" />
     </task>
     <task id="LOCAL-00001" summary="add out folder">
       <created>1656479628176</created>
@@ -229,6 +228,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add out folder" />
