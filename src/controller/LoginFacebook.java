@@ -39,7 +39,8 @@ public class LoginFacebook extends HttpServlet {
 
             // kiểm tra đã có thong tin trong database
             if(AccountDao.checkIDFB(user.getId()) == true) {
-
+//aclacsc
+//csaasc
             }else {
                 // chưa thì add vô database
                 AccountDao.InsertFBToDB(user.getId(), user.getName());
